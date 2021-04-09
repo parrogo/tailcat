@@ -1,4 +1,4 @@
-package {{.RepoName}}
+package tailcat
 
 import (
 	"embed"
